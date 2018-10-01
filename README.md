@@ -48,7 +48,7 @@ cd bin/
 ```
 Run 
 ```
-java BlackJack
+java pckg.BlackJack
 ```
 
 # Generating Documentation
